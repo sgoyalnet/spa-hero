@@ -1,0 +1,26 @@
+{
+  "name": "spa-hero",
+  "version": "1.0.0",
+  "description": "create production/dev ready distribution build for javascript based single page applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "spa": "./index.js"
+  },
+  "author": "Shubham Goyal (https://sgoyal.net)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-if": "^2.0.1",
+    "gulp-ignore": "^2.0.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.0",
+    "run-sequence": "^1.2.2"
+  }
+}
