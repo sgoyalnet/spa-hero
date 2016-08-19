@@ -9,6 +9,20 @@
   "bin": {
     "spa": "./index.js"
   },
+  "keywords": [
+    "angularjs",
+    "single page application build",
+    "automating build for server upload",
+    "gulp task for server ready build"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgoyalnet/spa-hero.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sgoyalnet/spa-hero/issues"
+  },
+  "homepage": "https://github.com/sgoyalnet/spa-hero#readme",
   "author": "Shubham Goyal (https://sgoyal.net)",
   "license": "ISC",
   "dependencies": {
